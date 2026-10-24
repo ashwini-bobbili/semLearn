@@ -1,0 +1,12 @@
+# Compiled Java files
+*.class
+
+# Local student account data
+students.dat
+
+# Build output
+out/
+build/
+
+# VS Code local settings
+.vscode/
